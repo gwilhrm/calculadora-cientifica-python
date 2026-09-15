@@ -11,6 +11,17 @@ Aplicação desktop de calculadora científica desenvolvida com Python e a bibli
 ## 🛠️ Tecnologias
 - Python 3
 - Tkinter (GUI nativa)
+  
+- ## 📸 Interface
+
+![Calculadora Científica](docs/Calculadora.png)
+
+## ▶️ Como executar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/gwilhrm/calculadora-cientifica-python.git
 
 ---
 
